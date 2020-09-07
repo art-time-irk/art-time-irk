@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    position: absolute;
+    background: url(../img/Hola2.jpg) no-repeat;
+    background-size: 1920px;
+    width: 100%;
+    height: auto;
+    top: 0;
+    left: 0;
+    max-height: 100vh;
+    overflow: hidden;
+}
